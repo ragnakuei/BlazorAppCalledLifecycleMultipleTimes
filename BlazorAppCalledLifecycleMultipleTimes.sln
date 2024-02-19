@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppCalledLifecycleMultipleTimes", "BlazorAppCalledLifecycleMultipleTimes\BlazorAppCalledLifecycleMultipleTimes.csproj", "{10622A11-31BA-4DDC-B8C8-B3F574B86A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10622A11-31BA-4DDC-B8C8-B3F574B86A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10622A11-31BA-4DDC-B8C8-B3F574B86A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10622A11-31BA-4DDC-B8C8-B3F574B86A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10622A11-31BA-4DDC-B8C8-B3F574B86A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {467BF94E-DE92-4F8D-83B2-1AB4E8EA75EF}
+	EndGlobalSection
+EndGlobal
